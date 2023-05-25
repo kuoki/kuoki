@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am constantly learning and interested in working as a front-end developer with React.
+I am constantly learning and interested in working as a QA tester
 
 
 ## 🌐 Socials:
